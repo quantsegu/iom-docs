@@ -224,7 +224,8 @@ const sidebars = {
         items: [
           // 'guides/connection-options',
           'guides/how-to-connect-iomete-and-metabase-bi',
-          'guides/how-to-connect-iomete-and-apache-superset'
+          'guides/how-to-connect-iomete-and-apache-superset',
+          'guides/how-to-connect-iomete-and-tableau'
         ]
       },
       {
